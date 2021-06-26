@@ -7,6 +7,7 @@ const shantera = (prefix, pushname) => {
 - bot gay
 - gracias
 - hola
+- Hola
 - fua
 - corte
 - gaspi buenos dias 
@@ -37,8 +38,7 @@ const shantera = (prefix, pushname) => {
 
 
 _Ojito escribe tal y como esta en el mensaje_
-
-by shanduy`
+`
 
 }
 
