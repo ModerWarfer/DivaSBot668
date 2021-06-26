@@ -1,6 +1,6 @@
 {
   "name": "DivaSBot",
-  "version": "1.0",
+  "version": "3.0",
   "description": "Only termux",
   "main": "index.js",
   "directories": {
@@ -38,10 +38,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ModerWarfer/DivaSBot668.git"
+    "url": "git+https://github.com/shanduy/ShanBot.git"
   },
   "bugs": {
-    "url": "https://github.com/ModerWarfer/DivaSBot668.git"
+    "url": "https://github.com/shanduy/ShanBot.git"
   },
-  "homepage": "https://github.com/ModerWarfer/DivaSBot668#readme"
+  "homepage": "https://github.com/shanduy/ShanBot#readme"
 }
