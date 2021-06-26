@@ -55,6 +55,8 @@ Registrate con el comando ${prefix}daftar y tu nombre
 
 ◉ *GRUPOS*
   ║
+  ╠ ○ ${prefix}menuadmin
+  ╠menu de PerlasMasters
   ╠ ○ ${prefix}closegc
   ╠ Cerrar el grupo solo PerlasMasters
   ╠ ○ ${prefix}opengc
