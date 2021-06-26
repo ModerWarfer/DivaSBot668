@@ -1,6 +1,6 @@
 {
-  "name": "DivaSBot",
-  "version": "3.0",
+  "name": "shanbot",
+  "version": "0.0.2",
   "description": "Only termux",
   "main": "index.js",
   "directories": {
@@ -17,10 +17,10 @@
     "whatsapp",
     "bot"
   ],
-  "author": "ModerWarfer",
-  "license": "ISCM",
+  "author": "Shan",
+  "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.0",
+    "@adiwajshing/baileys": "^3.5.1",
     "@kagchi/kag-api": "^1.5.5",
     "async": "^3.2.0",
     "axios": "^0.21.1",
