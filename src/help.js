@@ -1,31 +1,22 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ShanBot 🤖 by shanduy* ⌟  
+⌜ *DivaSBot* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: shanduy™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Creador: ModerWarfer™ 
+   ○ Grupo para ideas: https://chat.whatsapp.com/J81AZF0tjGMHxvL7JnD4SR
 
-◉ *ShanBot Con Insultos O Quitarlos🤷‍♂️?*
-Responde esto en la siguiente encuesta
-https://forms.gle/4zzqRpV21CMGwsF57
 
-◉ *NUEVO COMANDO*
+
+◉ *MENUS*
+- ${prefix}desmenu
+Descargar musica y videos de YT
 - ${prefix}otak
 Monas chinas
 - ${prefix}shantera
 Interactua con el bot
-
-◉ *NUEVOS MENUS*
-- ${prefix}desmenu
-Descargar musica y videos de YT
-- ${prefix}version
-Conoce la versión de tu bot
-- ${prefix}welmenu
-Comandos de bienvedia a grupos
 
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
@@ -65,15 +56,17 @@ Registrate con el comando ${prefix}daftar y tu nombre
 ◉ *GRUPOS*
   ║
   ╠ ○ ${prefix}closegc
-  ╠ Cerrar el grupo solo admins
+  ╠ Cerrar el grupo solo PerlasMasters
   ╠ ○ ${prefix}opengc
-  ╠ Abrir grupo solo admins
+  ╠ Abrir grupo solo PerlasMasters
+  ╠ ○ ${prefix}welmenu
+  ╠ Comandos de bienvedia a grupos
   ╠ ○ ${prefix}kick o pafuera
   ╠ Eliminar a un miembro 
   ╠ ○ ${prefix}promote
-  ╠ Dar admin a un miembro
+  ╠ Dar PerlaMaster a un miembro
   ╠ ○ ${prefix}demote
-  ╠ Quitar el admin
+  ╠ Quitar el PerlaMaster
   ╠ ○ ${prefix}linkgc
   ╠ Link del grupo
   ╠ ○ ${prefix}todos
@@ -85,13 +78,8 @@ Para usar estas funciones el bot necesita admin
   ║
   ╚ ○ ${prefix}nsfwmenu
 
-Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
-No te olvides de seguirme en instagram flaco ;)
-
-by shanduy
-
-⌜ *ごきげんよう :)* ⌟ 
+ 
 `
 }
 
