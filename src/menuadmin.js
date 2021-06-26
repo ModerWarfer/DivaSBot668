@@ -1,6 +1,6 @@
 const menuadmin = (prefix, pushname) => {
  return `Hola aqui los comandos para admins
- _Para que el bot ejecute estos comandos obs es necesario dar admin al bot_
+ _Para que el bot ejecute estos comandos obs es necesario dar PerlaMaster al bot_
  
  ◪ *COMANDOS DE ADMIN*
  │
