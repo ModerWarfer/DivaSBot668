@@ -11,7 +11,6 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "node test.js"
   },
   "keywords": [
     "termux-whatsapp-bot",
@@ -21,7 +20,7 @@
   ],
   "homepage": "https://github.com/Nurutomo/wabot-aq",
   "author": {
-    "name": "Nurutomo"
+    "name": "Divaee"
   },
   "repository": {
     "type": "git",
