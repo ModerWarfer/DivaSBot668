@@ -75,7 +75,7 @@ const { othermenu } require('./database/menu/othermenu')
 const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'VERSION:3.0\n' 
             + 'FN:DivaSBot\n' // Nombre
-            + 'ORG:Shanduy;\n' // Propietario
+            + 'ORG:ModerWarfer;\n' // Propietario
             + 'TEL;type=CELL;type=VOICE;waid=5492634358865:+549 26 343 58865\n' // ID de WhatsApp + número de teléfono
             + 'END:VCARD'
 /******FIN DE ENTRADA VCARD******/
