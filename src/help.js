@@ -21,11 +21,6 @@ Interactua con el bot
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
 
-◉ *RESUELVE TUS DUDAS*
-  ║
-  ╠ ○ ${prefix}creador
-  ╚ Dudas o problemas aqui
-
 ◉ *CREAR STICKERS*
   ║
   ╠ ○ ${prefix}sticker
