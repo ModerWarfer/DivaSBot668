@@ -1,5 +1,5 @@
 {
-  "name": "shanbot",
+  "name": "DivaSBot",
   "version": "0.0.2",
   "description": "Only termux",
   "main": "index.js",
@@ -17,8 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Shan",
-  "license": "ISC",
+  "author": "ModerWarfer",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.1",
     "@kagchi/kag-api": "^1.5.5",
@@ -38,10 +37,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shanduy/ShanBot.git"
+    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/shanduy/ShanBot.git"
+    "url": "https://github.com/Nurutomo/wabot-aq/issues"
   },
-  "homepage": "https://github.com/shanduy/ShanBot#readme"
+  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "author": {
+    "name": "Nurutomo"
 }
